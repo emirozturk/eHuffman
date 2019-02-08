@@ -1,0 +1,40 @@
+C:\Users\Good4U\Desktop\eHuffman\eHuffman\bin\Debug\eHuffman.exe.config
+E:\Good4U\SkyDrive\eHuffman\eHuffman\bin\Debug\eHuffman.exe.config
+E:\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.csprojResolveAssemblyReference.cache
+E:\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.frmMain.resources
+E:\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.Properties.Resources.resources
+E:\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.csproj.GenerateResource.Cache
+E:\Good4U\SkyDrive\eHuffman\eHuffman\bin\Debug\eHuffman.exe
+E:\Good4U\SkyDrive\eHuffman\eHuffman\bin\Debug\eHuffman.pdb
+E:\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.exe
+E:\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.pdb
+C:\Users\Good4U\SkyDrive\eHuffman\eHuffman\bin\Debug\eHuffman.exe.config
+C:\Users\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.exe
+C:\Users\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.pdb
+C:\Users\Good4U\SkyDrive\eHuffman\eHuffman\bin\Debug\eHuffman.exe
+C:\Users\Good4U\SkyDrive\eHuffman\eHuffman\bin\Debug\eHuffman.pdb
+C:\Users\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.csprojResolveAssemblyReference.cache
+C:\Users\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.frmMain.resources
+C:\Users\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.Properties.Resources.resources
+C:\Users\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.csproj.GenerateResource.Cache
+C:\Users\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.frmBatch.resources
+E:\Good4U\SkyDrive\eHuffman\eHuffman\obj\Debug\eHuffman.frmBatch.resources
+C:\Users\Good4U\Desktop\eHuffman\eHuffman\obj\Debug\eHuffman.exe
+C:\Users\Good4U\Desktop\eHuffman\eHuffman\obj\Debug\eHuffman.pdb
+C:\Users\Good4U\Desktop\eHuffman\eHuffman\bin\Debug\eHuffman.exe
+C:\Users\Good4U\Desktop\eHuffman\eHuffman\bin\Debug\eHuffman.pdb
+C:\Users\Good4U\Desktop\eHuffman\eHuffman\obj\Debug\eHuffman.csprojResolveAssemblyReference.cache
+C:\Users\Good4U\Desktop\eHuffman\eHuffman\obj\Debug\eHuffman.frmBatch.resources
+C:\Users\Good4U\Desktop\eHuffman\eHuffman\obj\Debug\eHuffman.frmMain.resources
+C:\Users\Good4U\Desktop\eHuffman\eHuffman\obj\Debug\eHuffman.Properties.Resources.resources
+C:\Users\Good4U\Desktop\eHuffman\eHuffman\obj\Debug\eHuffman.csproj.GenerateResource.Cache
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\bin\Debug\eHuffman.exe.config
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Debug\eHuffman.exe
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Debug\eHuffman.pdb
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\bin\Debug\eHuffman.exe
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\bin\Debug\eHuffman.pdb
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Debug\eHuffman.csprojResolveAssemblyReference.cache
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Debug\eHuffman.frmBatch.resources
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Debug\eHuffman.frmMain.resources
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Debug\eHuffman.Properties.Resources.resources
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Debug\eHuffman.csproj.GenerateResource.Cache

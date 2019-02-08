@@ -1,0 +1,34 @@
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\bin\Release\eHuffman.exe.config
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\bin\Release\eHuffman.exe
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\bin\Release\eHuffman.pdb
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Release\eHuffman.frmBatch.resources
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Release\eHuffman.frmMain.resources
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Release\eHuffman.Properties.Resources.resources
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Release\eHuffman.csproj.GenerateResource.Cache
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Release\eHuffman.exe
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Release\eHuffman.pdb
+C:\Users\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\bin\Release\eHuffman.exe.config
+C:\Users\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Release\eHuffman.exe
+C:\Users\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Release\eHuffman.pdb
+E:\Good4U\SkyDrive\Veri Sıkıştırma Final\eHuffman\eHuffman\obj\Release\eHuffman.csprojResolveAssemblyReference.cache
+C:\Users\Good4U\SkyDrive\Veri Sıkıştırma Final\Gönderilecek\eHuffman\eHuffman\bin\Release\eHuffman.exe.config
+C:\Users\Good4U\SkyDrive\Veri Sıkıştırma Final\Gönderilecek\eHuffman\eHuffman\obj\Release\eHuffman.exe
+C:\Users\Good4U\SkyDrive\Veri Sıkıştırma Final\Gönderilecek\eHuffman\eHuffman\obj\Release\eHuffman.pdb
+C:\Users\Good4U\SkyDrive\Veri Sıkıştırma Final\Gönderilecek\eHuffman\eHuffman\bin\Release\eHuffman.exe
+C:\Users\Good4U\SkyDrive\Veri Sıkıştırma Final\Gönderilecek\eHuffman\eHuffman\bin\Release\eHuffman.pdb
+C:\Users\Good4U\SkyDrive\Veri Sıkıştırma Final\Gönderilecek\eHuffman\eHuffman\obj\Release\eHuffman.csprojResolveAssemblyReference.cache
+C:\Users\Good4U\SkyDrive\Veri Sıkıştırma Final\Gönderilecek\eHuffman\eHuffman\obj\Release\eHuffman.frmBatch.resources
+C:\Users\Good4U\SkyDrive\Veri Sıkıştırma Final\Gönderilecek\eHuffman\eHuffman\obj\Release\eHuffman.frmMain.resources
+C:\Users\Good4U\SkyDrive\Veri Sıkıştırma Final\Gönderilecek\eHuffman\eHuffman\obj\Release\eHuffman.Properties.Resources.resources
+C:\Users\Good4U\SkyDrive\Veri Sıkıştırma Final\Gönderilecek\eHuffman\eHuffman\obj\Release\eHuffman.csproj.GenerateResource.Cache
+C:\Users\emiro\Desktop\eHuffman\eHuffman\bin\Release\eHuffman.exe.config
+C:\Users\emiro\Desktop\eHuffman\eHuffman\obj\Release\eHuffman.exe
+C:\Users\emiro\Desktop\eHuffman\eHuffman\obj\Release\eHuffman.pdb
+C:\Users\emiro\Desktop\eHuffman\eHuffman\bin\Release\eHuffman.exe
+C:\Users\emiro\Desktop\eHuffman\eHuffman\bin\Release\eHuffman.pdb
+C:\Users\emiro\Desktop\eHuffman\eHuffman\obj\Release\eHuffman.csprojAssemblyReference.cache
+C:\Users\emiro\Desktop\eHuffman\eHuffman\obj\Release\eHuffman.frmBatch.resources
+C:\Users\emiro\Desktop\eHuffman\eHuffman\obj\Release\eHuffman.frmMain.resources
+C:\Users\emiro\Desktop\eHuffman\eHuffman\obj\Release\eHuffman.Properties.Resources.resources
+C:\Users\emiro\Desktop\eHuffman\eHuffman\obj\Release\eHuffman.csproj.GenerateResource.cache
+C:\Users\emiro\Desktop\eHuffman\eHuffman\obj\Release\eHuffman.csproj.CoreCompileInputs.cache
